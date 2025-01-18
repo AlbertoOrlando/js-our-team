@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.immagine img{
+    max-width: 100%;
+}
+
+.col-4{
+    display: flex;
+}
